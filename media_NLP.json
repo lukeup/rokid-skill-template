@@ -1,0 +1,41 @@
+{
+	"intents": [
+		{
+			"intent": "pause",
+			"slots": [],
+			"user_says": [
+				"暂停播放",
+				"暂停",
+				"暂停一下"
+			]
+		},
+		{
+			"intent": "resume",
+			"slots": [],
+			"user_says": [
+				"继续播放",
+				"继续"
+			]
+		},
+		{
+			"intent": "play",
+			"slots": [],
+			"user_says": [
+				"下一曲",
+				"下一首",
+				"下一个",
+				"切歌",
+				"开始播放"
+			]
+		},
+		{
+			"intent": "pre",
+			"slots": [],
+			"user_says": [
+				"上一曲",
+				"上一首",
+				"上一个"
+			]
+		}
+	]
+}
