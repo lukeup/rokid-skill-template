@@ -15,7 +15,6 @@
 > - 播放列表，顺序播放会按照列表顺序播放。var play_list = [];
 
 
-# rokid-skill-template
 # 用于快速创建文字技能的模板
 ## 支持情况
 > 指令（可在tts_NLP.json内自行扩充)
